@@ -1,1 +1,1 @@
-Easy to use code implemented in Python
+Easy to use, written in Python
