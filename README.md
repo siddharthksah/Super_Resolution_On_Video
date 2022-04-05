@@ -1,2 +1,1 @@
-# Computer-Vision
-Essential projects in CV
+# Easy to use Super resolution implementation
