@@ -38,7 +38,7 @@ Change into your local copy of the this repo:
     $ cd Super_Resolution_On_Video
 
 ### Step 6:
-Start the notebook:
+Run the code:
 
     $ python3 loop.py
 
