@@ -9,11 +9,12 @@ Below are instructions to implement in in your local system using a separate dev
 ### Step 2:
 Create a `conda` environment called `super-resolution` and install all the necessary dependencies, the environment.yml file is uploaded in the repo for ease:
 
-    $ conda env create --file environment.yml
+    $ conda env create -n super-resolution python=3.8 -y
     
 ### Step 3:
 Install the extra dependencies, it is not required but helps in making sure the jupyter notebook is running in the right conda env:
 
+    $ pip install -r requirement.txt
     $ conda install nb_conda
 
 ### Step 4:
