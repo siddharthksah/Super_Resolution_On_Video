@@ -1,5 +1,7 @@
 # Easy to use Super resolution implementation
 
+![Upscaled](upscaled.jpeg)
+
 
 Below are instructions to implement in in your local system using a separate development environment using the [Conda](http://conda.pydata.org/docs/index.html) package management system which comes bundled with the Anaconda Python distribution provided by Continuum Analytics.
 
