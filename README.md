@@ -8,6 +8,8 @@ Below are instructions to implement in in your local system using a separate dev
 ### Step 1:
 [Fork and clone](https://github.com/siddharthksah/Super_Resolution_On_Video) a copy of this repository on to your local machine.
 
+    $ git clone https://github.com/siddharthksah/Super_Resolution_On_Video
+
 ### Step 2:
 Create a `conda` environment called `super-resolution` and install all the necessary dependencies, the environment.yml file is uploaded in the repo for ease:
 
